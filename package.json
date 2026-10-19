@@ -1,0 +1,12 @@
+{
+  "name": "khaji-pakhsh",
+  "private": true,
+  "type": "module",
+  "description": "Design preview for خاجی پخش, a wholesale electrical-equipment distributor in Tehran. Static site, no dependencies.",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node src/check.mjs",
+    "serve": "node src/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
