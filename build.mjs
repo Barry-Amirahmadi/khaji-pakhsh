@@ -146,7 +146,7 @@ ${PREVIEW ? '<meta name="robots" content="noindex, nofollow">\n' : ''}<link rel=
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#0E1A2B">
+<meta name="theme-color" content="#0B1324">
 <link rel="icon" href="${u('/favicon.svg')}" type="image/svg+xml">
 <link rel="apple-touch-icon" href="${u('/apple-touch-icon.png')}">
 <link rel="preload" href="${u('/fonts/Vazirmatn-Variable.woff2')}" as="font" type="font/woff2" crossorigin>
